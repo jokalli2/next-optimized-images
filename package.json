@@ -1,5 +1,5 @@
 {
-  "name": "next-optimized-images",
+  "name": "@jokalli2/next-optimized-images",
   "version": "2.6.3",
   "description": "Automatically optimize images used in next.js projects (jpeg, png, gif, svg).",
   "main": "lib/index.js",
@@ -50,5 +50,9 @@
     "npm-autoinstaller": "^1.3.1",
     "svg-sprite-loader": "^4.1.3",
     "webpack": "^4.30.0"
+  },
+  "directories": {
+    "example": "example",
+    "lib": "lib"
   }
 }

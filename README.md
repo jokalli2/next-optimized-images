@@ -1,3 +1,5 @@
+This fork updates dependencies and fixes loading inline SVGs.
+
 # :sunrise: next-optimized-images [![npm version](https://badgen.net/npm/v/next-optimized-images)](https://www.npmjs.com/package/next-optimized-images) [![license](https://badgen.net/github/license/cyrilwanner/next-optimized-images)](https://github.com/cyrilwanner/next-optimized-images/blob/master/LICENSE) [![downloads](https://badgen.net/npm/dt/next-optimized-images)](https://www.npmjs.com/package/next-optimized-images)
 
 **:bulb: Version 3 is coming!**
