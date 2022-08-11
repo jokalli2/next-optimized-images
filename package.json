@@ -1,6 +1,6 @@
 {
   "name": "next-optimized-images",
-  "version": "2.6.2",
+  "version": "2.6.3",
   "description": "Automatically optimize images used in next.js projects (jpeg, png, gif, svg).",
   "main": "lib/index.js",
   "files": [
@@ -38,7 +38,7 @@
     "imagemin": "^6.1.0",
     "img-loader": "^3.0.1",
     "raw-loader": "^2.0.0",
-    "url-loader": "^1.1.2"
+    "url-loader": "^4.1.1"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
